@@ -1,6 +1,6 @@
 # Site settings
-title: welcome to the HuQianLiang site!
-SEOTitle: 胡乾亮
+title: Welcome to Hu Qianliang's website!
+SEOTitle: Hu Qianliang
 header-img: img/home-bg.jpg
 email: 598209036@qq.com
 description: ""
@@ -82,10 +82,10 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "WuWeiHong",
+        title: "Wu Weihong",
         href: "http://huqianliang.top"
     },{
-        title: "HuQianLiang",
+        title: "Hu Qianliang",
         href: "http://huqianliang.top"
     }
 ]

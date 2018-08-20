@@ -1,6 +1,6 @@
 # Site settings
-title: Hu&Wu
-SEOTitle: Hu&Wu
+title: 胡乾亮的个人网站
+SEOTitle: 胡乾亮
 header-img: img/home-bg.jpg
 email: 598209036@qq.com
 description: ""
@@ -82,20 +82,11 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hu&Wu",
+        title: "WuWeiHong",
         href: "http://huqianliang.top"
     },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
+        title: "HuQianLiang",
+        href: "http://huqianliang.top"
     }
 ]
 

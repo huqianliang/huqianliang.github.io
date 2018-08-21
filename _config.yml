@@ -12,9 +12,9 @@ baseurl: "/huqianliang.github.io"         # for example, '/blog' if your blog ho
 
 # SNS settings
 RSS: false
-weibo_username:     HuQianLiang
-zhihu_username:     HuQianLiang
-github_username:    HuQianLiang
+weibo_username: /u/6161622902
+zhihu_username: /aim-98/activities
+github_username: /huqianliang
 #twitter_username:  huxpro
 facebook_username:  HuQianLiang
 
